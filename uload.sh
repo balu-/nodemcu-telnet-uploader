@@ -1,4 +1,4 @@
-#!/usr/bin/expect #Where the script should be run from.
+#!/usr/bin/expect
 #If it all goes pear shaped the script will timeout after 20 seconds.
 set timeout 20
 #First argument is assigned to the variable ip
